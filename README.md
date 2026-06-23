@@ -22,7 +22,7 @@ A simple **Number Guessing Game** built using **Python** and **Tkinter** as part
 ## 🚀 How to Run
 
 1. Clone the repository.
-2. Run `number_guessing_game.py`.
+2. Run `task02_number_guessing.py`.
 3. Start guessing the number!
 
 ## 📚 Learning Outcomes
